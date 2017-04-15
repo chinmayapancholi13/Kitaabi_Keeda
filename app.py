@@ -264,7 +264,7 @@ def send_message_download_button(recipient_id):
                   "type":"template",
                   "payload":{
                     "template_type":"button",
-                    "text" : "I have retreieved the exact location of the book that you are looking for. :)",
+                    "text" : "I have retrieved the exact location of the book that you are looking for. :)",
                     "buttons":[
                      {
                         "type":"web_url",
